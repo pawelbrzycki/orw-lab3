@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { 
+  background-image: url('http://pawelbrzycki.com/images/tlo.gif');
+  background-repeat: repeat-x;
+  background-color: #f1f1f1;
+  font-family: Verdana, sans-serif;
+  width: 100%;
+  margin: auto;
+  padding: 0;
+  font-size: 30px;
+  font-family: Verdana;
+  color: #000;
+}
+table {
+        table-layout:auto;
+        padding:15px;
+        background-color:#DFF;
+        width:50%;
+        border:1px dashed #000;
+      }
+
+      table tbody tr td {
+        border:0px dashed #000;
+        text-align:center;
+        padding:0px;
+
+.button1 {
+    background-color: #369343; 
+    color: black; 
+    border: 2px solid #4CAF50;
+	border-radius: 4px;
+}
+
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+	border-radius: 4px;
+}
+
+
+.button1 {
+    background-color: #369343; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 4px;
+}
+
+.button2 {
+    background-color: #931414; 
+    color: black; 
+    border: 2px solid #4CAF50;
+	border-radius: 4px;
+}
+
+.button2:hover {
+    background-color: #931414;
+    color: white;
+	border-radius: 4px;
+}
+
+
+.button2 {
+    background-color: #ae1f1f; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 4px;
+}
